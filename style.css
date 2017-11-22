@@ -1,0 +1,89 @@
+
+
+@media 
+
+/* Fairly small screens including iphones */
+only screen and (max-width: 738px),
+
+/* iPads */
+only screen and (min-device-width: 768px) and (max-device-width: 1024px) 
+
+{
+	#top, #bottom, #left, #right { display: none; }
+}
+.kiwi{text-align:center;margin-top: 40px;}
+
+body {padding: 30px;
+    margin:10px; position: relative;}
+.line-separator{height:1px;
+    background:#717171;}
+.intro{text-align: left;font-size: 60px; background-color:white; color: black; margin: 50px; font-family: fantasy;}
+.miniintro{margin: 20px;margin-left: 20px;}
+.one {text-decoration: none; color:black; background-image:url(ppimg/salmon.jpg); margin: 40px; margin-left: 20px;margin-right: 20px;}
+.list{margin: 20px; font-size: 70px; font-family:  cursive;}
+.minione a:hover{color:orange;}
+.minione a{color:black;font-size: 50px; font-family: 'Caveat', cursive;}
+.minione{margin-left: 20px; font-family: 'Caveat', cursive; text-align: justify;}
+.two{font-family:'ubuntu', sans-serif;margin-left: 10px; margin-top: 20px;font-size: 20px;}
+.two a{color:orangered;}
+.two a:hover{color:darkturquoise;}
+.three{background-image: url(ppimg/cevi.jpg);color: black; margin:40px; margin-right: 20px;  margin-left: 20px;}
+.fast{margin: 20px;font-size: 60px; font-family:  cursive;}
+.mini3 a:hover{color:orange;}
+.mini3 a{color:black; font-size: 55px; font-family: 'Caveat', cursive;}
+.mini3{text-align:justify; margin-left: 20px;font-family: 'Caveat' , cursive;}
+.four{text-align:justify;font-family:'ubuntu', sans-serif; margin-left: 20px; margin-top: 20px;font-size: 20px;}
+.footer{display:flex; justify-content: space-between; padding: 10px; margin: 40px; color:gray;}
+.mini a{text-decoration:none; color:black; font-family: 'carter one',cursive; font-size: 170%;}
+.mini a:hover{color: darkturquoise;}
+.mp{margin-left: 40px; }
+.mt{margin-right: 80px;}
+.cake img{width:420px; height: 320px; border: black solid; border-width: 10px;padding: 10px;}
+.te img{width:420px; height: 320px; border: black solid; border-width: 10px;padding: 10px;}
+.snack img{width:420px; height: 320px; border: black solid; border-width: 10px;padding: 10px;}
+.te{text-align: center;}
+.te a{color:dodgerblue;font-family: 'Indie flower', cursive; }
+.te a:hover{color:orange; }
+.snack{text-align: center;}
+.snack a{color:dodgerblue; font-family: 'Indie flower', cursive;}
+.snack a:hover{color:orange;}
+.cake{text-align: center; }
+.cake a:hover{color: orange;}
+.cake a{font-family: 'Indie flower', cursive; color:dodgerblue}
+.box{display: flex; justify-content:space-between; margin: 20px;margin-top: 60px; margin-bottom: 60px; }
+.min a:hover{color:blue;}
+.min a{color: darkturquoise;}
+.contact{text-align: center; color:black;margin: 80px;font-size: 30px;}
+.supermarkets{text-align: center;color:red;}
+.me img{float:left;margin-left: 180px;}
+.inspire{text-align: center;margin-top: 80px; font-family: 'Indie flower', cursive;}
+.description{margin: 80px;text-align: justify; }
+.chefs{text-align: center;font-family: monospace; margin: 30px;}
+.ingredients{margin: 40px; font-family: 'Indie flower', cursive;text-align: center;color: darkturquoise;padding: 10px;}
+.li{margin: 40px; border: black dotted 4px; text-align: justify; margin-left: 200px; margin-right: 200px;}
+.gettherecipe a{color:red;}
+.gettherecipe a:hover{color:blue;}
+.important{color:darkmagenta;}
+.bom{text-align: center; background: linear-gradient(pink, white);}
+.peruingredients{text-align: justify; border-left: red solid 10px; border-right: red solid 10px; padding-left: 40px; padding-right: 40px; font-family:'ubuntu', serif;}
+.color{background: linear-gradient(coral, white);}
+.pancakes img{width:380px; height:350px;}
+.thanks{font-family: 'carter one', cursive; text-align: center; color:orangered;}
+.marg{padding: 40px;}
+.flag {text-align: center; margin: 40px;padding-bottom: 20px; padding-top: 20px;}
+spam{color:red;}
+.videos{text-align: center; color:red;}
+.kids img{width:400px; height:400px; }
+.kids{padding: 40px;}
+.oa{padding: 20px;}
+.contact a{color:darkcyan;}
+.contact a:hover{color:blue;}
+.table{margin: 60px; margin-left: 400px;}
+.bom a{color:black;}
+.bom a:hover{color:blue;}
+.thanks img{;width:300px; height:200px;}
+.space{margin: 40px 0px;}
+.ce img{width: 400px; height:400px;}
+.capital{text-align: center;font-family: 'carter one' , cursive; font-size: 130%;}
+table{width:900px; overflow: auto;resize:both; padding:40px;}
+.sweet{font-size: 280%; font-family: 'Indie flower', cursive;}
